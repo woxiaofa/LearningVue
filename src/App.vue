@@ -2,6 +2,7 @@
   <div id="app">
     <tab></tab>
     <router-view/>
+    <router-view class="view two" name="a"></router-view>
   </div>
 </template>
 <script>
@@ -14,6 +15,5 @@ export default {
 </script>
 
 <style scoped>
-
 </style>
 
