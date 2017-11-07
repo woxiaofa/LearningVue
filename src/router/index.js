@@ -11,7 +11,7 @@ Vue.use(Router)
 export default new Router({
   routes: [
     // name 是标题我没测明白，path是 地址栏里显示的路径，实际路径上面from里的，component 声明 主要是和上面对应的名字
-    { name: '首页', path: '/', component: Foo },
+    { name: '首页', path: '/', redirect: '/foo/' },
     {
       name: '添加todolist',
       path: '/foo/',
