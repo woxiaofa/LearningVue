@@ -26,7 +26,9 @@ index.js 路由 简单的修改过加了几条导航tab需要的页面；
 其他的都可以自己建，所以都是新的或者全修改过
 
 切换页面回到顶部的官方解决方案，和案例
+
 https://github.com/vuejs/vue-router/blob/next/examples/scroll-behavior/app.js
+
 https://router.vuejs.org/zh/guide/advanced/scroll-behavior.html#%E5%BC%82%E6%AD%A5%E6%BB%9A%E5%8A%A8
 
 他人解决方案
